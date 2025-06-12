@@ -117,4 +117,4 @@ streamlit run app.py                                         # Abre a interface 
 - **Yasmin Oliveira** - [LinkedIn](https://www.linkedin.com/in/yasmin-victoria-oliveira) | [GitHub](https://github.com/yasminvo)
 - **Gabriel Merlin** - [LinkedIn](https://www.linkedin.com/in/gabrielcmerlin) | [GitHub](https://github.com/gabrielcmerlin)
 
-Agradecimentos especiais aos Prof Dr. Plauto Watanabe e Prof. Dra. Luciana Munhoz.
+Agradecimentos especiais aos Prof Dr. Plauto Watanabe e Dra. Luciana Munhoz.
