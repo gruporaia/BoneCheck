@@ -1,0 +1,12 @@
+{
+    "best_params": {
+        "colsample_bytree": 0.85,
+        "gamma": 1,
+        "learning_rate": 0.02,
+        "max_depth": 2,
+        "min_child_weight": 1,
+        "n_estimators": 25,
+        "subsample": 0.7
+    },
+    "cv_results": {
+        "mean_test_accuracy": 
