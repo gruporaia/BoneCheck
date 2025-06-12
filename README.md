@@ -71,7 +71,7 @@ streamlit run app.py                                         # Abre a interface 
 ## 📊 Resultados
 | Modelo         | Acurácia | Precisão | Recall | F1-Score |
 |----------------|----------|----------|--------|----------|
-| **ConvNeXT**   | 0.722    | 0.716    | 0.674  | 0.690    |
+| **ConvNeXT**   | 0.688    | 0.651    | 0.631  | 0.638    |
 | **EfficientNet** | 0.558  | 0.608    | 0.605  | 0.512    |
 | **DeiT**       | 0.688    | 0.648    | 0.635  | 0.639    |
 | **Swin**       | 0.632    | 0.591    | 0.622  | 0.590    |
