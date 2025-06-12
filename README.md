@@ -41,7 +41,7 @@ BoneCheck utiliza um pipeline de classificação de imagens médicas com modelos
                 │
                 ▼
  Predição Final (Saudável, Osteopenia, Osteoporose)
-
+```
 
 
 ## 🛠️ Como rodar
