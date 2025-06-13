@@ -11,9 +11,6 @@ Feito em parceria com a FORB - USP Ribeirão Preto, com os Prof. Dr. Plauto Wata
 
 
 ## ⚙️ Funcionamento
-Explique como o projeto está estruturado. Use diagramas e/ou fluxogramas para descrever a arquitetura/pipeline de funcionamento. Detalhe textualmente também. Aqui, a ideia é mostrar de fato como a aplicação funciona, do ponto de vista teórico (conceitos da literatura) e prático (ferramentas, frameworks...).
-
-
 BoneCheck utiliza um pipeline de classificação de imagens médicas com modelos de redes neurais convolucionais (CNNs) e uma etapa final de fusão de predições com XGBoost, um algoritmo de aprendizado de máquina baseado em árvores de decisão. O sistema foi projetado para analisar radiografias panorâmicas e classificar entre Saudável, Osteopenia e Osteoporose.
 
 ## 🔄 Pipeline de Funcionamento do BoneCheck
