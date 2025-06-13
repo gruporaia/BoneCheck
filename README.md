@@ -15,30 +15,7 @@ BoneCheck utiliza um pipeline de classificação de imagens médicas com modelos
 
 ## 🔄 Pipeline de Funcionamento do BoneCheck
 
-```plaintext
- Radiografia Panorâmica (imagem)
-                │
-                ▼
-    Pré-processamento da imagem
-                │
-                ▼
-      Inferência com múltiplas CNNs
-  ┌────────────────────────────────┐
-  │             ConvNeXt           │
-  │              DeiT              │
-  │         EfficientNet           │
-  │              Swin              │
-  └────────────────────────────────┘
-                │
-                ▼
-     Vetor de Probabilidades
-                │
-                ▼
-      Classificador XGBoost
-                │
-                ▼
- Predição Final (Saudável, Osteopenia, Osteoporose)
-```
+![bone_check](https://github.com/user-attachments/assets/7127070a-7d18-4110-9262-57fa21db6cda)
 
 
 ## 🛠️ Como rodar
